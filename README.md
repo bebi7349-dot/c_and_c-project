@@ -31,6 +31,51 @@ It was developed as part of my **BCA coursework**.
 
 ---
 
+## 👤 Connect with Me  
+
+ 
+- 💼 LinkedIn: [Your LinkedIn Profile](#)  
+- 🐦 Twitter: [Your Twitter Handle](#)  
+- 📧 Email: your-email@example.com  
+- 🐙 GitHub: [Your GitHub Profile](https://github.com/yourusername)  
+
+---
+
+## 📊 GitHub Status  
+
+![Bebi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&border_radius=10)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 📂 Project Structure
 BankManagementSystem/
 │── src/ # Source code files
