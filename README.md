@@ -92,7 +92,10 @@ Enter your choice:
 
 🔧 Want to contribute? Fork and submit a pull request.
 
-⭐ If this project helped you, give it a star on GitHub!
+⭐ If this project helped you, give it a star on GitHubs
+
+
+
 
 🚀 Future Improvements
 
