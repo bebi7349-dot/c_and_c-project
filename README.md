@@ -36,7 +36,7 @@ It was developed as part of my **BCA coursework**.
  
 - 💼 LinkedIn: [bebi-kumari-5368a236b](#)  
 - 🐦 Twitter: [bebikumari-5666](#)  
-- 📧 Email: your-bebi7349@gamil.com  
+- 📧 Email: bebi7349@gamil.com  
 - 🐙 GitHub: [bebi7349-dot](https://github.com/bebi7349-dot)  
 
 ---
