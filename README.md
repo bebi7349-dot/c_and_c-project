@@ -34,44 +34,20 @@ It was developed as part of my **BCA coursework**.
 ## 👤 Connect with Me  
 
  
-- 💼 LinkedIn: [Your LinkedIn Profile](#)  
-- 🐦 Twitter: [Your Twitter Handle](#)  
-- 📧 Email: your-email@example.com  
-- 🐙 GitHub: [Your GitHub Profile](https://github.com/yourusername)  
+- 💼 LinkedIn: [bebi-kumari-5368a236b](#)  
+- 🐦 Twitter: [bebikumari-5666](#)  
+- 📧 Email: your-bebi7349@gamil.com  
+- 🐙 GitHub: [bebi7349-dot](https://github.com/bebi7349-dot)  
 
 ---
 
 ## 📊 GitHub Status  
 
-![Bebi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![Bebi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bebi7349-dot&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bebi7349-dot&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&border_radius=10)  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![GitHub Streak](https://streak-stats.demolab.com?user=bebi7349-dot&theme=tokyonight&border_radius=10)  
 
 
 
@@ -98,6 +74,9 @@ g++ src/main.cpp src/account.cpp -o bank_system
 ./bank_system
 g++ src\main.cpp src\account.cpp -o bank_system.exe
 bank_system.exe
+
+
+
 🎯 OOP Concepts Used
 
 Classes & Objects → For managing accounts
